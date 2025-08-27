@@ -5,4 +5,4 @@ https://alumnosuvcl-my.sharepoint.com/:f:/g/personal/dante_chavez_estudiantes_uv
 
 Diagrama 1: https://alumnosuvcl-my.sharepoint.com/:i:/r/personal/dante_chavez_estudiantes_uv_cl/Documents/Integracion%20tec/Diagrama%201.png?csf=1&web=1&e=SALTH3
 
-Diagrama 2: https://alumnosuvcl-my.sharepoint.com/:i:/r/personal/dante_chavez_estudiantes_uv_cl/Documents/Integracion%20tec/Diagrama%202.png
+Diagrama 2: https://alumnosuvcl-my.sharepoint.com/:i:/r/personal/dante_chavez_estudiantes_uv_cl/Documents/Integracion%20tec/Diagrama%202.png?csf=1&web=1&e=4R1a5V
