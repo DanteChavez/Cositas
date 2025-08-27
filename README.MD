@@ -12,4 +12,9 @@ Diagrama 2: https://alumnosuvcl-my.sharepoint.com/:i:/r/personal/dante_chavez_es
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://alumnosuvcl-my.sharepoint.com/:i:/r/personal/dante_chavez_estudiantes_uv_cl/Documents/Integracion%20tec/Diagrama%202.png "Diagrama 2"
+[logo]: https://github.com/DanteChavez/Cositas/blob/main/Diagramas/Diagrama%201.png "Diagrama 1"
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/DanteChavez/Cositas/blob/main/Diagramas/Diagrama%202.png "Diagrama 2]"
